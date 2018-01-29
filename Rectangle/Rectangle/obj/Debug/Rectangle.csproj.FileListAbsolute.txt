@@ -1,0 +1,7 @@
+D:\CodeGym-ThucHanh\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+D:\CodeGym-ThucHanh\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+D:\CodeGym-ThucHanh\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+D:\CodeGym-ThucHanh\Rectangle\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache
+D:\CodeGym-ThucHanh\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+D:\CodeGym-ThucHanh\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+D:\CodeGym-ThucHanh\Rectangle\Rectangle\obj\Debug\Rectangle.pdb
