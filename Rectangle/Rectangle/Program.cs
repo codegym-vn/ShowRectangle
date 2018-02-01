@@ -30,8 +30,19 @@ namespace Rectangle
 
     public class Rectangle
     {
-        public double Height { get; set; }
-        public double Width { get; set; }
+        private double _height;
+        public double Height
+        {
+            get { return _height; }
+            set { _height = value; }
+        }
+
+        private double _width;
+        public double Width
+        {
+            get { return _width; }
+            set { _width = value; }
+        }
 
         public Rectangle(double height, double width)
         {
